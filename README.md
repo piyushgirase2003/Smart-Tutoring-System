@@ -1,19 +1,5 @@
 # Tutoring Website
 
-
-# Experience Our Tutoring Platform Live!
-## We invite you to explore our Tutoring Website and see how it can enhance the learning experience for students.
-
- 
-##  🌐 Live Demo:-        letsdoitbycode.infinityfreeapp.com
-
-# FRONTEND VIEW - https://letsdoitbycode.github.io/Smart-Tutoring-website/
-
-### Feel free to register, browse through our courses, and join a live tutoring session to see the platform in action! Your feedback is valuable, and we’d love to hear your thoughts!
-
-### Try It Out!
-
-
 Welcome to the Tutoring Website! This platform is designed to offer online tutoring services for students ranging from 1st grade to professional courses such as Engineering, Medical, and CA. It provides a comprehensive, easy-to-use interface for both students and tutors, backed by a robust backend system.
 
 ## Documentation
